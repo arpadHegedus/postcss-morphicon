@@ -1,0 +1,39 @@
+{
+  "name": "postcss-morphicon",
+  "version": "1.0.0",
+  "description": "A postcss plugin to add special morphable icons done in pure HTML/CSS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpadHegedus/postcss-morphicon.git"
+  },
+  "keywords": [
+    "postcss",
+    "morphicon",
+    "icon",
+    "morphing",
+    "morphable",
+    "plugin"
+  ],
+  "author": {
+    "name": "Arpad Hegedus",
+    "email": "hegedus.arpad@gmail.com",
+    "web": "http://arpadhegedus.com"
+  },
+  "maintainers": [
+    {
+      "name": "Arpad Hegedus",
+      "email": "hegedus.arpad@gmail.com",
+      "web": "http://arpadhegedus.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arpadHegedus/postcss-morphicon/issues"
+  },
+  "homepage": "https://github.com/arpadHegedus/postcss-morphicon#readme",
+  "dependencies": {
+    "postcss":"^6.0.5",
+    "postcss-plugin-utilities":"^2.0.0"
+  }
+}
